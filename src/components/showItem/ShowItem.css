@@ -1,0 +1,32 @@
+.itemlist{
+    width: 100%  ;
+      display: flex;
+    justify-content: center;
+    /* flex-direction: row; */
+    align-items: center;
+    flex-wrap: wrap;
+    /* background-color: #444646; */
+
+}
+.imagesss{
+    height: 200px;
+    width: 250px;
+    /* border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px; */
+    border-radius: 15px;
+    border: 1px solid rgb(222, 219, 219);
+    background-color: white;
+}
+.imageit{
+    margin-block: 30px;
+    margin-inline: 30px;
+    /* background-color: #e1e9e9; */
+}
+.btnbn{
+    width: 150px;
+    /* height: 35px; */
+    border: 2px solid rgb(222, 219, 219);
+    text-align: center;
+    color: black;
+   
+}

@@ -1,0 +1,19 @@
+/* .containes{
+    widt
+} */
+
+.pcategory {
+    margin-block: 20px;
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.items{
+    text-align: center;
+    
+}
+
+.items button{
+    margin: 10px;
+    width: 200px;
+}
